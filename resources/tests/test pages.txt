@@ -1,3 +1,0 @@
-Changing theme-color:
-http://useragentman.com/tests/theme-color/?test
-
